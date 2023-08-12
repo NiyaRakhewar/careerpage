@@ -245,7 +245,7 @@ input:focus {
   color: black;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .job-list-container {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -254,7 +254,7 @@ input:focus {
 @media screen and (max-width: 580px) {
   .career-subtitle,
   .about-container {
-    width: 90%;
+    width: 80%;
     text-align: justify;
   }
   .bgimage {

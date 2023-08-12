@@ -91,9 +91,11 @@
   }
 
   .nav-links-inner-container div {
+    align-self: center;
     background-color: aliceblue;
     background: linear-gradient(white, skyblue);
     width: 150px;
+
     padding: 8% 10%;
     border-radius: 20px;
     box-shadow: 1px 2px 4px 1px rgba(1, 1, 0, 0.6);

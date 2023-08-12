@@ -243,11 +243,9 @@
     width: 90%;
     text-align: justify;
   }
-  .result-container {
-    margin-left: 15%;
-  }
+
   .job-list-container {
-    margin-left: 15%;
+    /* margin-left: 15%; */
     grid-template-columns: 1fr;
   }
 }

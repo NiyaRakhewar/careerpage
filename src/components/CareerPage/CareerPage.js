@@ -10,7 +10,7 @@ export const CareerPage = () => {
   const [locationInput, setLocationInput] = useState("");
   const [filteredData, setFilteredData] = useState([...data]);
   const clickHandler = () => {
-    const filteringData = data.filter(
+    const filteringData = data?.filter(
       ({ title, location }) =>
         title.toLowerCase().includes(jobInput.toLowerCase()) &&
         location.toLowerCase().includes(locationInput.toLowerCase())

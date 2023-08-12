@@ -1,0 +1,156 @@
+export const data = [
+  {
+    title: "Frontend Developer",
+    reqId: 12345,
+    location: "San Francisco, CA",
+    category: "Web Development",
+    experience: "2-5 years",
+    salary: "$80,000 - $100,000",
+    skills: ["HTML", "CSS", "JavaScript", "React"],
+    details:
+      "As a Frontend Developer, you will be responsible for creating user interfaces using HTML, CSS, and JavaScript. You'll collaborate with designers to implement responsive and engaging web applications using React.",
+  },
+  {
+    title: "Backend Developer",
+    reqId: 54321,
+    location: "New York, NY",
+    category: "Web Development",
+    experience: "3-6 years",
+    salary: "$90,000 - $110,000",
+    skills: ["Node.js", "Python", "SQL", "REST APIs"],
+    details:
+      "As a Backend Developer, you'll work on server-side logic and integration, building robust APIs using Node.js and Python. You'll also ensure data security and optimize database queries.",
+  },
+  {
+    title: "Full Stack Developer",
+    reqId: 67890,
+    location: "Seattle, WA",
+    category: "Web Development",
+    experience: "2-5 years",
+    salary: "$85,000 - $105,000",
+    skills: ["React", "Node.js", "MongoDB", "GraphQL"],
+    details:
+      "As a Full Stack Developer, you'll work on both frontend and backend aspects of web applications. You'll build user interfaces using React and handle server-side logic with Node.js and MongoDB.",
+  },
+  {
+    title: "Data Scientist",
+    reqId: 98765,
+    location: "Chicago, IL",
+    category: "Data Science",
+    experience: "4-7 years",
+    salary: "$95,000 - $120,000",
+    skills: ["Python", "Machine Learning", "Data Visualization"],
+    details:
+      "As a Data Scientist, you'll analyze complex data sets, build predictive models, and provide insights to drive data-informed decisions. You'll work with Python, machine learning algorithms, and data visualization tools.",
+  },
+  {
+    title: "Network Administrator",
+    reqId: 24680,
+    location: "Houston, TX",
+    category: "Network Administration",
+    experience: "3-5 years",
+    salary: "$70,000 - $90,000",
+    skills: ["Network Configuration", "Troubleshooting"],
+    details:
+      "As a Network Administrator, you'll manage and maintain an organization's network infrastructure. You'll be responsible for network configuration, security, and resolving connectivity issues.",
+  },
+  {
+    title: "Cloud Solutions Architect",
+    reqId: 13579,
+    location: "San Jose, CA",
+    category: "Cloud Computing",
+    experience: "5-8 years",
+    salary: "$110,000 - $140,000",
+    skills: ["AWS", "Azure", "Solution Design"],
+    details:
+      "As a Cloud Solutions Architect, you'll design and implement cloud-based solutions for scalability, security, and performance. You'll work with cloud platforms like AWS and Azure.",
+  },
+  {
+    title: "UI/UX Designer",
+    reqId: 80246,
+    location: "Los Angeles, CA",
+    category: "Design",
+    experience: "2-4 years",
+    salary: "$75,000 - $95,000",
+    skills: ["User-Centered Design", "Wireframing", "Prototyping"],
+    details:
+      "As a UI/UX Designer, you'll create intuitive user interfaces and delightful user experiences. You'll collaborate with cross-functional teams to design and iterate on user-centered products.",
+  },
+  {
+    title: "Security Analyst",
+    reqId: 95173,
+    location: "Washington, D.C.",
+    category: "Cybersecurity",
+    experience: "3-6 years",
+    salary: "$85,000 - $110,000",
+    skills: ["Incident Response", "Security Tools"],
+    details:
+      "As a Security Analyst, you'll monitor and respond to security incidents, conduct vulnerability assessments, and develop security policies. You'll play a crucial role in safeguarding the organization's digital assets.",
+  },
+  {
+    title: "Mobile App Developer",
+    reqId: 57890,
+    location: "Miami, FL",
+    category: "Mobile Development",
+    experience: "2-5 years",
+    salary: "$80,000 - $100,000",
+    skills: ["iOS", "Android", "React Native", "Mobile UI/UX"],
+    details:
+      "As a Mobile App Developer, you'll create engaging and user-friendly mobile applications for iOS and Android platforms using technologies like React Native. You'll ensure smooth app performance and optimal user experience.",
+  },
+  {
+    title: "Business Analyst",
+    reqId: 73529,
+    location: "Atlanta, GA",
+    category: "Business Intelligence",
+    experience: "3-6 years",
+    salary: "$85,000 - $110,000",
+    skills: ["Data Analytics", "Dashboard Creation", "SQL"],
+    details:
+      "As a Business Intelligence Analyst, you'll gather and analyze data to provide actionable insights for business decision-making. You'll create dashboards and reports to communicate data-driven findings.",
+  },
+  {
+    title: "Software Engineer",
+    reqId: 15698,
+    location: "Austin, TX",
+    category: "Software Development",
+    experience: "2-5 years",
+    salary: "$90,000 - $110,000",
+    skills: ["Java", "Spring Boot", "REST APIs", "Software Design"],
+    details:
+      "As a Software Engineer, you'll design, develop, and maintain software applications using Java and Spring Boot. You'll collaborate with cross-functional teams to deliver high-quality software solutions.",
+  },
+  {
+    title: "Database Administrator",
+    reqId: 40215,
+    location: "Dallas, TX",
+    category: "Database Administration",
+    experience: "4-7 years",
+    salary: "$95,000 - $120,000",
+    skills: ["Database Management", "Tuning", "SQL"],
+    details:
+      "As a Database Administrator, you'll manage and optimize databases for performance, availability, and security. You'll ensure data integrity and implement backup and recovery strategies.",
+  },
+  {
+    title: "IT Project Manager",
+    reqId: 81520,
+    location: "Denver, CO",
+    category: "Project Management",
+    experience: "5-8 years",
+    salary: "$100,000 - $130,000",
+    skills: ["Project Planning", "Agile", "Stakeholder"],
+    details:
+      "As an IT Project Manager, you'll lead and oversee technology projects from initiation to completion. You'll collaborate with teams, manage resources, and ensure successful project delivery.",
+  },
+  {
+    title: "Machine Learning Engineer",
+    reqId: 63982,
+    location: "Boston, MA",
+    category: "Machine Learning",
+    experience: "3-6 years",
+    salary: "$110,000 - $140,000",
+    skills: ["Machine Learning Algorithms", "Python", "TensorFlow"],
+    details:
+      "As a Machine Learning Engineer, you'll design and implement machine learning algorithms, develop predictive models, and contribute to data-driven solutions using Python and TensorFlow.",
+  },
+];

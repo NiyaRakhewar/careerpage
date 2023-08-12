@@ -163,7 +163,7 @@ input:focus {
 }
 .job-title-container {
   margin-top: 0;
-  font-size: 18px;
+  font-size: 22px;
   color: #28369f;
 }
 .job-location-container {
@@ -256,7 +256,9 @@ input:focus {
     width: 90%;
     text-align: justify;
   }
-
+  .bgimage {
+    width: 80%;
+  }
   .job-list-container {
     /* margin-left: 15%; */
     grid-template-columns: 1fr;

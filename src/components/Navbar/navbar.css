@@ -34,6 +34,11 @@
   display: none;
 }
 
+.bar-icon-container:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
 .nav-links-container {
   display: flex;
   color: white;
@@ -60,9 +65,9 @@
     display: block;
     text-align: right;
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 25px;
     /* content: "\e8bc"; */
-    color: white;
+    color: aqua;
   }
   .nav-column-container {
     position: fixed;
@@ -114,9 +119,10 @@
     right: 25px;
     font-size: 2rem;
     font-weight: 600;
-    color: red;
+    color: #45ecfff9;
   }
   .remove-icn:hover {
+    cursor: pointer;
     transform: scale(1.3);
   }
 

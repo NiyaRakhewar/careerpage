@@ -134,6 +134,7 @@
   padding: 20px;
   border: 1px solid #ddd;
   text-align: center;
+  justify-content: center;
   border-radius: 0.5rem;
 }
 
@@ -247,5 +248,9 @@
   .job-list-container {
     /* margin-left: 15%; */
     grid-template-columns: 1fr;
+  }
+
+  .job-card-container {
+    width: 70%;
   }
 }

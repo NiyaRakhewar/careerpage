@@ -142,15 +142,4 @@ export const data = [
     details:
       "As an IT Project Manager, you'll lead and oversee technology projects from initiation to completion. You'll collaborate with teams, manage resources, and ensure successful project delivery.",
   },
-  {
-    title: "Machine Learning Engineer",
-    reqId: 63982,
-    location: "Boston, MA",
-    category: "Machine Learning",
-    experience: "3-6 years",
-    salary: "$110,000 - $140,000",
-    skills: ["Machine Learning Algorithms", "Python", "TensorFlow"],
-    details:
-      "As a Machine Learning Engineer, you'll design and implement machine learning algorithms, develop predictive models, and contribute to data-driven solutions using Python and TensorFlow.",
-  },
 ];

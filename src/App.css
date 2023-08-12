@@ -38,3 +38,8 @@
     transform: rotate(360deg);
   }
 }
+
+.career-page-container {
+  display: flex;
+  flex-direction: column;
+}

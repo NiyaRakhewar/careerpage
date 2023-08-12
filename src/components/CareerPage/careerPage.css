@@ -52,7 +52,9 @@
   margin-bottom: 50px;
 }
 .bgimage:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
+  transition: all 0.5s linear;
+  cursor: pointer;
 }
 
 .career-search-outer-container {
@@ -82,9 +84,15 @@
   border: none;
 }
 
+input:focus {
+  outline: none;
+}
+
 .search-keyword-container:hover,
 .search-location-container:hover {
   transform: scale(1.1);
+  transition: all 0.5s linear;
+  cursor: pointer;
 }
 
 .search-icon-container {
@@ -100,6 +108,8 @@
 
 .search-icon-container:hover {
   transform: scale(1.1);
+  transition: all 0.5s linear;
+  cursor: pointer;
 }
 .search-icon {
   width: 20px;
@@ -141,6 +151,8 @@
 .job-card-container:hover {
   box-shadow: 1px 3px 1px 1px rgba(1, 1, 4, 0.2);
   transform: scale(1.08);
+  /* transform: scale(1.1); */
+  transition: all 0.5s linear;
   cursor: pointer;
 }
 .job-title-location-container {
